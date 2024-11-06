@@ -1,1 +1,1 @@
-# dev-tools-images-parser
+# Images from DevTools parser
