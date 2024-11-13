@@ -1,6 +1,6 @@
-# Images from DevTools Parser
+# Webpage Images Parser
 
-Allows downloading all viewed images from a webpage using a HAR file from DevTools.
+Enables downloading all images viewed on a webpage using a HAR file exported from DevTools.
 
 ## Instructions
 
